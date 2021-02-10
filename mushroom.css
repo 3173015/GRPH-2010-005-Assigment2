@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+/* CSS Document */
+body{
+	#background: #65C8EA;
+	background-image: url("background.jpg");
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color:#5A0BA2;
+	background-position: center; 
+	background-blend-mode:lighten;
+	height: 500px;
+	margin: 10px;
+	padding: 10px;
+	font-family: 'Bebas Neue', cursive;
+}
+p{
+	font-size:20pt;
+	color:#FC5BB8;
+	
+}
+h1{
+	font-size: 60pt;
+	color:antiquewhite
+}
+h2{
+	font-size:30pt;
+	color:black;
+}
+h3{
+	font-size:18pt;
+	color: #FC5BB8;
+}
+.intro{
+	
+	border:thin white;
+	font-size: 25pt;
+	
+	color:antiquewhite;
+	text-align: center;
+	
+}
+
+.green1{
+	margin-top: -20px;
+	float: left;
+	margin-right: 50px;
+
+	
+	
+}
+.yellow1{
+	position:relative;
+	left:50px;
+	
+}
+.red1{
+	float: left;
+	position:relative;
+    top:-20px;
+}
+.Gompha1{
+	float: left;
+	margin-right: 50px;
+	margin-top:-20px;
+}
+.flower1{
+	float: left;
+}
+.honey{
+	position: relative;
+	left: 50px;
+	top: 20px;
+	
+	
+}
+.search{
+	font-size: 20pt;
+	align-items: center;
+	float: left;
+}
+
+
