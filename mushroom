@@ -1,0 +1,85 @@
+# GRPH-2010-005-Assigment2
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>MUSHROOM</title>
+</head>
+<link href="./mushroom.css" type="text/css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+<body>
+
+<h3>@MUSHROOM</h3>
+	<p>&nbsp;</p>
+<div class="intro">
+	<h1>Introduction</h1>
+	<p>You will know about some interesting <strong>mushrooms</strong> on this site. <br>You can <em>click</em> any image to look up its information and what will happen if you eat it.</p>
+	<br><br>
+		
+  </div>
+	<div class="pick">
+	<h1>Pick One!</h1>
+		<br>
+		<ul>
+	<li><h2>Type</h2></li>
+			<div  class="Gompha1">
+			<h3>Gomphales</h3>
+			<a href="https://en.wikipedia.org/wiki/Gomphales" target="_blank"><img src="假鸡油菌.jpg" width="200" height="170"/></a>
+			</div>
+			<div  class="cantha1">
+			<h3>Cantharellales</h3>
+			<a href="https://en.wikipedia.org/wiki/Cantharellus" target="_blank"><img src="鸡油菌.jpg" width="200" height="160"/></a>
+			</div>
+			<br>
+			<br><br>
+	<li><h2>Color</h2></li>
+			<div class="green1">
+			<h3>Green</h3> 
+			<a href="https://en.wikipedia.org/wiki/Russula_virescens" target="_blank"><img src="青头菌.png"  width="200" height="170"/></a>
+			</div>
+			<div  class="red1">
+			<h3>Red</h3>
+			<a href="https://en.wikipedia.org/wiki/Russula_sanguinaria" target="_blank"><img src="大红菌.jpg" width="200" height="160"/></a>
+			</div>
+			<div  class="yellow1">
+			<h3>yellow</h3>
+			<a href="https://en.wikipedia.org/wiki/Cantharellus" target="_blank"><img src="鸡油菌2.jpg" width="200" height="170"/></a>
+			</div>
+			<br><br><br>
+	<li><h2>Shape</h2></li>
+			<div  class="flower1">
+			<h3>flower</h3>
+			<a href="https://en.wikipedia.org/wiki/Thelephora_ganbajun" target="_blank"><img src="干巴菌.jpg" width="200" height="150"/></a>
+			</div>
+			<div  class="honey">
+			<h3>honeycomb</h3>
+			<a href="https://en.wikipedia.org/wiki/Morchella" target="_blank"><img src="羊肚菌.jpg" width="200" height="180"/></a>
+			</div>
+	  </ul>
+	</div>
+	<br><br><br>
+	<div class="search">
+		<h1>Search One You Interesting</h1>
+		<section>
+		<form>
+			<label for="mushroom">Type your choice in</label>
+			<br>
+			<br>
+		<div class="input">
+        <input type="text" name="Forest" onchange="window.location.href='file:///C:/Users/%E5%8D%8E%E7%A1%95/Desktop/Website/%E7%89%B9%E6%95%88%E8%98%91%E8%8F%87/Forest.html'" value="Search"> 
+		</div>
+			<div class="tips">
+			<p>if you would like to have a risk in the forest, type the "Forest"</p>
+			<p>if you would like to review some information you can stay on this page</p>
+			</div>
+		
+	      
+				
+
+      </form>
+	  </section>
+	</div>
+</body>
+</html>
